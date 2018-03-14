@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "leetcode", "leetcode.csproj", "{CF388E5F-E98B-47FF-8F14-6C6B22B36691}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.addtwonumbers", "2.addtwonumbers\2.addtwonumbers.csproj", "{82866FB4-798A-4649-8AD6-D04AD98CE057}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Recursion", "Recursion", "{3F28661D-71CD-46EA-8EE9-A1188F69A35D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "687-Longest Univalue Path", "Recursion\687-Longest Univalue Path\687-Longest Univalue Path.csproj", "{18580860-FAE8-4C9D-A68D-8E40DBC4A08F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF388E5F-E98B-47FF-8F14-6C6B22B36691}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF388E5F-E98B-47FF-8F14-6C6B22B36691}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF388E5F-E98B-47FF-8F14-6C6B22B36691}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF388E5F-E98B-47FF-8F14-6C6B22B36691}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82866FB4-798A-4649-8AD6-D04AD98CE057}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82866FB4-798A-4649-8AD6-D04AD98CE057}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82866FB4-798A-4649-8AD6-D04AD98CE057}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82866FB4-798A-4649-8AD6-D04AD98CE057}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18580860-FAE8-4C9D-A68D-8E40DBC4A08F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18580860-FAE8-4C9D-A68D-8E40DBC4A08F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18580860-FAE8-4C9D-A68D-8E40DBC4A08F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18580860-FAE8-4C9D-A68D-8E40DBC4A08F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{18580860-FAE8-4C9D-A68D-8E40DBC4A08F} = {3F28661D-71CD-46EA-8EE9-A1188F69A35D}
+	EndGlobalSection
+EndGlobal
